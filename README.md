@@ -1,5 +1,21 @@
-# Vue 3 + Vite
+# 🚀 Manual de Instalación - Proyecto Vite + Laragon
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este documento describe cómo instalar y ejecutar este proyecto Vite utilizando **Laragon** como entorno de desarrollo local.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## ✅ Requisitos
+
+Antes de comenzar, asegúrate de tener instalado:
+
+- [Laragon](https://laragon.org/)
+- [Node.js](https://nodejs.org/) (Verifícalo con `node -v` en la terminal de Laragon)
+
+---
+
+## 📁 Paso 1: Clonar el Repositorio
+
+Abre la terminal de Laragon y ubícate en la carpeta `www`:
+
+```bash
+cd C:\laragon\www
+git clone https://github.com/jhoanchq/vite-project.git
+```
