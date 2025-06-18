@@ -1,9 +1,9 @@
 <script setup>
-import Ejercicio01 from './Pages/Ejercicios/Ejercicio01.vue'
+import Ejercicio02 from './Pages/Ejercicios/Ejercicio02.vue'
 </script>
 
 <template>
-  <Ejercicio01 />
+  <Ejercicio02 />
 </template>
 
 <style scoped></style>
