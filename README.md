@@ -41,7 +41,7 @@ npm run dev
 Tambien lo puedes clonar en el escritorio, primero crea una carpeta que contendra los proyectos de Vue,
 `Vue`,
 
-Abre la terminal de Laragon coloca `cd` y arrastra la carpeta ENTER:
+Abre la terminal de Laragon coloca `cd` y arrastra la carpeta hacia el terminal y sualta, luego preciona ENTER:
 
 ```bash
 git clone https://github.com/jhoanchq/vite-project.git
